@@ -4,16 +4,15 @@
   <img align="left" alt="Arpit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/dangi_arpit/">
-  <img align="left" alt="Ritik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Arpit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br>
 <br>
 
 
-Hi, I'm Arpit Dangi, a Web Developer and Problem solver 🚀 from India, Beside's programming, I enjoy to work on Front -End Web and Android Development.
+Hi, I'm Arpit Dangi, a Web Developer and Problem solver 🚀 from India, Beside's programming, I enjoy to work on Backend Development.
 - 🔭 I’m currently working on  *Web Development*
-- 💻 Worked on the website of **[Smart Earnings](http://smartearnings.tech//)**
 - 💬 Ask me about anything, will try to help.
 - 📫 How to reach me: *arpitdangi9@gmail.com*
 
